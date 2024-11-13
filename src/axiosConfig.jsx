@@ -2,7 +2,7 @@ import axios from "axios";
 
 // cau hinh lai axios
 const instance = axios.create({
-  baseURL: "https://671285ce6c5f5ced6623dae7.mockapi.io/",
+  baseURL: "https://6726e64f302d03037e6ea1ab.mockapi.io/",
 });
 
 // Add a request interceptor
